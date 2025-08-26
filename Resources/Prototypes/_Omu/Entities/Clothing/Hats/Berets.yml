@@ -1,7 +1,7 @@
 - type: entity
   parent: [ ClothingHeadHatBeretRND, BaseCommandContraband ]
-  id: beret_veteran_cmo
-  name: Veteran chief medical officer's beret
+  id: ClothingHeadHatBeretVeteranCMO
+  name: chief medical officer's veteran beret
   description: A Fur lined rubber beret, designed to survive even the most inevitable of chemistry mishaps.
   components:
   - type: Sprite
