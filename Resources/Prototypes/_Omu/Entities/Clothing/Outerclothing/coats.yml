@@ -23,6 +23,6 @@
         Caustic: 0.4
 
 - type: entity
-  parent: [ClothingOuterStorageFoldableBaseOpened, CMOLabCoat]
+  parent: [ClothingOuterStorageFoldableBaseOpened, ClothingOuterCMOLabCoat]
   id: ClothingOuterCMOLabCoatOpened
   name: chief medical officer's lab coat

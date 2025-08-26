@@ -15,7 +15,7 @@
 - type: loadout
   id: CMOVetLabCoat
   equipment:
-    outerClothing: CMOLabCoat
+    outerClothing: ClothingOuterCMOLabCoat
   effects:
   - !type:GroupLoadoutEffect
     proto: VeteranCMO
@@ -23,7 +23,7 @@
 - type: loadout
   id: CMOVetBeret
   equipment:
-    head: beret_veteran_cmo
+    head: ClothingHeadHatBeretVeteranCMO
   effects:
   - !type:GroupLoadoutEffect
     proto: VeteranCMO
