@@ -122,11 +122,6 @@
   equipment:
     outerClothing: ClothingOuterWinterBlueshield
 
-- type: loadout
-  id: BlueshieldOfficerOuterKimonoBlueshield
-  equipment:
-    outerClothing: ClothingOuterBlueshieldArmourKimono
-
 # Neck
 - type: loadout
   id: BlueshieldOfficerOuterBlueshieldMantle
