@@ -486,5 +486,4 @@ public partial class SharedGunSystem
     {
 
     }
-
 }
