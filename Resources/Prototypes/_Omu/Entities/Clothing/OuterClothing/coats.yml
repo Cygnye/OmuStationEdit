@@ -230,10 +230,9 @@
     sprite: _Omu/Clothing/OuterClothing/Coats/centcomlabcoat.rsi
   - type: Clothing
     sprite: _Omu/Clothing/OuterClothing/Coats/centcomlabcoat.rsi
-  - type: ExplosionResistance
-  - type: Armor
 
 - type: entity
   parent: [ClothingOuterStorageFoldableBaseOpened, ClothingOuterCentcomLabcoat]
   id: ClothingOuterCentcomLabcoatOpened
   name: Central Commander's Labcoat
+
