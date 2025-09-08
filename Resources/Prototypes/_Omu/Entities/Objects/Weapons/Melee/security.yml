@@ -37,11 +37,12 @@
     - Rolling
     speedModifier: 1.25
   - type: Clothing
-    quickEquip: false
+    quickEquip: true
     slots:
     - back
+    - suitstorage
   - type: UseDelay
-    delay: 1
+    delay: 0.25
   - type: UndetectableContraband #Goobstation-Contraband detector
   - type: StealTarget
     stealGroup: WeaponSecHeadSword
